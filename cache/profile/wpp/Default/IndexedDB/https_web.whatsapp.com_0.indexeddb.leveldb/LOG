@@ -1,0 +1,61 @@
+2023/06/07-17:47:46.217 1590 Reusing MANIFEST D:\projects\projects\Disparo automatico de mensagens\cache\profile\wpp\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/06/07-17:47:46.218 1590 Recovering log #2385
+2023/06/07-17:47:46.257 1590 Reusing old log D:\projects\projects\Disparo automatico de mensagens\cache\profile\wpp\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/002385.log 
+2023/06/07-17:48:03.969 1590 Level-0 table #2407: started
+2023/06/07-17:48:04.101 1590 Level-0 table #2407: 1231150 bytes OK
+2023/06/07-17:48:04.125 1590 Delete type=0 #2385
+2023/06/07-17:48:04.187 2438 Compacting 1@0 + 0@1 files
+2023/06/07-17:48:04.250 2438 Generated table #2408@0: 20222 keys, 498066 bytes
+2023/06/07-17:48:04.286 2438 Generated table #2409@0: 3402 keys, 96035 bytes
+2023/06/07-17:48:04.286 2438 Compacted 1@0 + 0@1 files => 594101 bytes
+2023/06/07-17:48:04.310 2438 compacted to: files[ 0 2 21 0 0 0 0 ]
+2023/06/07-17:48:04.350 1590 Compacting 1@1 + 8@2 files
+2023/06/07-17:48:04.504 1590 Generated table #2410@1: 86646 keys, 2237112 bytes
+2023/06/07-17:48:04.651 1590 Generated table #2411@1: 95835 keys, 2247907 bytes
+2023/06/07-17:48:04.789 1590 Generated table #2412@1: 101431 keys, 2253288 bytes
+2023/06/07-17:48:04.915 1590 Generated table #2413@1: 61254 keys, 2224731 bytes
+2023/06/07-17:48:05.041 1590 Generated table #2414@1: 4818 keys, 2164069 bytes
+2023/06/07-17:48:05.122 1590 Generated table #2415@1: 2088 keys, 2143956 bytes
+2023/06/07-17:48:05.248 1590 Generated table #2416@1: 27331 keys, 2236233 bytes
+2023/06/07-17:48:05.305 1590 Generated table #2417@1: 13713 keys, 398091 bytes
+2023/06/07-17:48:05.305 1590 Compacted 1@1 + 8@2 files => 15905387 bytes
+2023/06/07-17:48:05.329 1590 compacted to: files[ 0 1 21 0 0 0 0 ]
+2023/06/07-17:48:05.329 1590 Delete type=2 #2407
+2023/06/07-17:48:14.194 2438 Compacting 1@1 + 8@2 files
+2023/06/07-17:48:14.389 2438 Generated table #2418@1: 105719 keys, 2252531 bytes
+2023/06/07-17:48:14.547 2438 Generated table #2419@1: 106785 keys, 2257152 bytes
+2023/06/07-17:48:14.699 2438 Generated table #2420@1: 104983 keys, 2254928 bytes
+2023/06/07-17:48:14.858 2438 Generated table #2421@1: 105134 keys, 2255366 bytes
+2023/06/07-17:48:15.005 2438 Generated table #2422@1: 105225 keys, 2254264 bytes
+2023/06/07-17:48:15.153 2438 Generated table #2423@1: 104841 keys, 2253590 bytes
+2023/06/07-17:48:15.313 2438 Generated table #2424@1: 104995 keys, 2254211 bytes
+2023/06/07-17:48:15.404 2438 Generated table #2425@1: 57661 keys, 1299249 bytes
+2023/06/07-17:48:15.404 2438 Compacted 1@1 + 8@2 files => 17081291 bytes
+2023/06/07-17:48:15.427 2438 compacted to: files[ 0 0 21 0 0 0 0 ]
+2023/06/07-17:48:15.428 2438 Delete type=2 #2397
+2023/06/07-17:48:15.428 2438 Delete type=2 #2398
+2023/06/07-17:48:15.428 2438 Delete type=2 #2399
+2023/06/07-17:48:15.428 2438 Delete type=2 #2400
+2023/06/07-17:48:15.428 2438 Delete type=2 #2401
+2023/06/07-17:48:15.428 2438 Delete type=2 #2402
+2023/06/07-17:48:15.428 2438 Delete type=2 #2403
+2023/06/07-17:48:15.428 2438 Delete type=2 #2404
+2023/06/07-17:48:15.428 2438 Delete type=2 #2408
+2023/06/07-17:48:20.320 2438 Level-0 table #2427: started
+2023/06/07-17:48:20.391 2438 Level-0 table #2427: 1209010 bytes OK
+2023/06/07-17:48:20.416 2438 Delete type=2 #2389
+2023/06/07-17:48:20.416 2438 Delete type=2 #2390
+2023/06/07-17:48:20.416 2438 Delete type=2 #2391
+2023/06/07-17:48:20.416 2438 Delete type=2 #2392
+2023/06/07-17:48:20.416 2438 Delete type=2 #2393
+2023/06/07-17:48:20.416 2438 Delete type=2 #2394
+2023/06/07-17:48:20.416 2438 Delete type=2 #2395
+2023/06/07-17:48:20.416 2438 Delete type=2 #2396
+2023/06/07-17:48:20.416 2438 Delete type=0 #2406
+2023/06/07-17:48:20.417 2438 Delete type=2 #2409
+2023/06/07-17:48:20.647 1590 Compacting 1@0 + 0@1 files
+2023/06/07-17:48:20.718 1590 Generated table #2428@0: 18010 keys, 477858 bytes
+2023/06/07-17:48:20.765 1590 Generated table #2429@0: 2473 keys, 71876 bytes
+2023/06/07-17:48:20.765 1590 Compacted 1@0 + 0@1 files => 549734 bytes
+2023/06/07-17:48:20.789 1590 compacted to: files[ 0 2 21 0 0 0 0 ]
+2023/06/07-17:48:20.790 1590 Delete type=2 #2427

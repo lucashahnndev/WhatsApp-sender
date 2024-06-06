@@ -1,0 +1,20 @@
+{nome},
+
+Para simplificar o acesso ao nosso novo sistema de controle, preparamos um guia rápido para o cadastro no aplicativo TRI Controle de Acesso:
+
+* 1. Acesse o link enviado e instale o aplicativo em seu celular (https://tricontroledeacesso.com/scond/).
+* 2. Clique em "Criar uma conta" e insira o código *110152*.
+* 3. Preencha todos os seus dados, incluindo nome completo, CPF, e-mail, número de celular, número do apartamento e bloco.
+* 4. Realize o reconhecimento facial, seguindo o modelo disponível em: (https://tricontroledeacesso.com/static/documents/facial_model/)
+* 5. Adicione os dados dos seus veículos, se houver.
+* 6. Após finalizar o cadastro, informe a nossa equipe para que possamos aprová-lo.
+* 7. Assim que seu cadastro for verificado e aprovado, você receberá em seu e-mail a senha de acesso para o aplicativo.
+
+Observações importantes:
+
+* A opção *moram comigo* é para menores de idade que não entram e saem sozinhos, ou para moradores que não desejam usar o aplicativo. Nesse caso, não é necessário inserir os dados dessas pessoas.
+
+Agradecemos a colaboração de todos para tornar nosso condomínio mais seguro e moderno!
+
+
+Equipe TRI Controle de Acesso 🚀

@@ -23,7 +23,7 @@ from selenium.webdriver.chrome.service import Service
 log_path = 'logs/'
 list_file = 'Pasta.xlsx'
 file_path = 'cache/number.pkl'
-message_file = 'mensagem.txt'
+message_file = 'message.txt'
 
 numeros_organizados = []
 list_numbers_anterior = []

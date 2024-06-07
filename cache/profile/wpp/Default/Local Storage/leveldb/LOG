@@ -1,3 +1,2 @@
-2024/06/06-20:47:54.974 49e4 Reusing MANIFEST D:\projects\WhatsApp-sender\cache\profile\wpp\Default\Local Storage\leveldb/MANIFEST-000001
-2024/06/06-20:47:54.981 49e4 Recovering log #19
-2024/06/06-20:47:54.985 49e4 Reusing old log D:\projects\WhatsApp-sender\cache\profile\wpp\Default\Local Storage\leveldb/000019.log 
+2024/06/06-21:04:00.293 3da0 Creating DB D:\projects\WhatsApp-sender\cache\profile\wpp\Default\Local Storage\leveldb since it was missing.
+2024/06/06-21:04:01.042 3da0 Reusing MANIFEST D:\projects\WhatsApp-sender\cache\profile\wpp\Default\Local Storage\leveldb/MANIFEST-000001

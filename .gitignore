@@ -154,6 +154,12 @@ cython_debug/
 */cache
 */cache/*
 *cache*
+cache/*
+cache/
+*\cache
+*\cache\*
+cache\*
+cache\
 
 */whatsapp_sender
 */whatsapp_sender/*
